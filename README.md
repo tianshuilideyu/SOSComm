@@ -1,3 +1,4 @@
+
 # SOSComm
 code and dataset in paper "Multi-typed Community Discovery in Time-Evolving Heterogeneous Information Networks with General Network Schemas through Tensor Method"
 
@@ -23,3 +24,5 @@ and
   pages={677-685},
   year={2008},
 }”
+
+Online "http://www.leitang.net/heterogeneous_network.html".
